@@ -1,0 +1,196 @@
+**************
+0 times: head: 0 tail: 9
+ary[0] = 4
+ary[1] = 7
+ary[2] = 3
+ary[3] = 6
+ary[4] = 2
+ary[5] = 9
+ary[6] = 8
+ary[7] = 1
+ary[8] = 5
+ary[9] = 0
+**************
+**************
+1 times: head: 0 tail: -1
+ary[0] = 0
+ary[1] = 7
+ary[2] = 3
+ary[3] = 6
+ary[4] = 2
+ary[5] = 9
+ary[6] = 8
+ary[7] = 1
+ary[8] = 5
+ary[9] = 4
+**************
+**************
+2 times: head: 1 tail: 9
+ary[0] = 0
+ary[1] = 7
+ary[2] = 3
+ary[3] = 6
+ary[4] = 2
+ary[5] = 9
+ary[6] = 8
+ary[7] = 1
+ary[8] = 5
+ary[9] = 4
+**************
+**************
+3 times: head: 1 tail: 3
+ary[0] = 0
+ary[1] = 3
+ary[2] = 2
+ary[3] = 1
+ary[4] = 4
+ary[5] = 9
+ary[6] = 8
+ary[7] = 6
+ary[8] = 5
+ary[9] = 7
+**************
+**************
+4 times: head: 1 tail: 0
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 9
+ary[6] = 8
+ary[7] = 6
+ary[8] = 5
+ary[9] = 7
+**************
+**************
+5 times: head: 2 tail: 3
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 9
+ary[6] = 8
+ary[7] = 6
+ary[8] = 5
+ary[9] = 7
+**************
+**************
+6 times: head: 2 tail: 2
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 9
+ary[6] = 8
+ary[7] = 6
+ary[8] = 5
+ary[9] = 7
+**************
+**************
+7 times: head: 4 tail: 3
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 9
+ary[6] = 8
+ary[7] = 6
+ary[8] = 5
+ary[9] = 7
+**************
+**************
+8 times: head: 5 tail: 9
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 9
+ary[6] = 8
+ary[7] = 6
+ary[8] = 5
+ary[9] = 7
+**************
+**************
+9 times: head: 5 tail: 6
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 6
+ary[6] = 5
+ary[7] = 7
+ary[8] = 8
+ary[9] = 9
+**************
+**************
+10 times: head: 5 tail: 4
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 5
+ary[6] = 6
+ary[7] = 7
+ary[8] = 8
+ary[9] = 9
+**************
+**************
+11 times: head: 6 tail: 6
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 5
+ary[6] = 6
+ary[7] = 7
+ary[8] = 8
+ary[9] = 9
+**************
+**************
+12 times: head: 8 tail: 9
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 5
+ary[6] = 6
+ary[7] = 7
+ary[8] = 8
+ary[9] = 9
+**************
+**************
+13 times: head: 8 tail: 8
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 5
+ary[6] = 6
+ary[7] = 7
+ary[8] = 8
+ary[9] = 9
+**************
+**************
+14 times: head: 10 tail: 9
+ary[0] = 0
+ary[1] = 1
+ary[2] = 2
+ary[3] = 3
+ary[4] = 4
+ary[5] = 5
+ary[6] = 6
+ary[7] = 7
+ary[8] = 8
+ary[9] = 9
+**************
+0 1 2 3 4 5 6 7 8 9 
